@@ -1,0 +1,50 @@
+#bg-img{
+    background-image: url("cheap-shop-bgtest.jpeg");
+    background-image: -moz-element();
+   
+}
+
+div{
+    height:530px;
+    width: 1250px;
+	border: 2px solid #6dbd45;
+    margin: 0 auto;
+}
+
+body {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 20px;
+	color:white;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+a {
+    text-decoration: yellowgreen ;
+	color:yellow !important;
+	font-family: "verdana", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#roller {
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	font-size: 30px;
+	color: black;
+    background-color: rgb(255, 255, 255);
+    text-align: center; 
+    margin-top: 1.5em;   
+}
+
+h3 {
+    margin:0;
+    padding:10px 6px 10px 6px;
+    font-size: 4em;
+    padding-top: 0.5em;
+}
+
+p {
+    margin:0;
+    padding:10px 5px 10px 5px;
+    font-size: 1.5em; 
+    padding-top: 8em;
+    font-style: italic;
+}

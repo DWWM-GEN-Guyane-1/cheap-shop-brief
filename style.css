@@ -4,6 +4,7 @@ body {
 	color: #333;
 	background-color: rgb(255, 255, 255);
 }
+
 a {
 	-moz-user-select: none;
 	color: #1155CC !important;
